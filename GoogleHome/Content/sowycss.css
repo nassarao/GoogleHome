@@ -1,0 +1,15 @@
+p{
+font-size:30px;
+font-family:Century;
+}
+h1{
+font-size:40px;
+}
+body{
+padding:5%;
+background-color: pink;
+}
+div{
+padding-left:45%;
+padding-right:auto;
+}
