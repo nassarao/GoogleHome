@@ -114,7 +114,7 @@ namespace GoogleHome.Controllers
         private Library GetLibrary()
         {
             XmlSerializer serializer = new XmlSerializer(typeof(Library));
-            using (StreamReader reader = new StreamReader(@"C: \Users\KingZelot\Documents\My Web Sites\GoogleHome\ApplicationsCmd.xml"))
+            using (StreamReader reader = new StreamReader(Server.MapPath("~/App_Data/ApplicationsCmd.xml")))
             {
                 Library lib = (Library)serializer.Deserialize(reader);
                 return lib;

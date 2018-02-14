@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Library>
+<Apps>
+  <App>
+    <Name>Popcorn time</Name>
+    <Cmd>F:\Popcorn-Time\Popcorn-Time.exe</Cmd>
+	<Parameters></Parameters>
+	<ProcessName>Popcorn-Time.exe</ProcessName>
+  </App>
+  
+   <App>
+    <Name>PUBG</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/578080</Parameters>
+	<ProcessName>TslGame.exe</ProcessName>
+  </App>
+  
+  <App>
+    <Name>notepad</Name>
+    <Cmd>notepad</Cmd>
+	<Parameters></Parameters>
+	<ProcessName></ProcessName>
+  </App>
+  
+  <App>
+    <Name>Chrome</Name>
+    <Cmd>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</Cmd>
+	<Parameters></Parameters>
+	<ProcessName>chrome.exe</ProcessName>
+  </App>
+  
+   <App>
+    <Name>Ark</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/346110</Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+   <App>
+    <Name>Move or Die</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/323850</Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+   <App>
+    <Name>Path of Exile</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/238960</Parameters>
+	<Exe></Exe>
+  </App>
+  
+   <App>
+    <Name>Dragon Ball</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/678950</Parameters>
+	<ProcessName></ProcessName>
+  </App>
+  
+  <App>
+    <Name>Rocket League</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>steam://rungameid/252950</Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+  <App>
+    <Name>Audioswitch</Name>
+    <Cmd>F:\Audioswitch\Audioswitch.exe</Cmd>
+	<Parameters></Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+  <App>
+    <Name>Steam Big Picture</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters>-start steam://open/bigpicture</Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+    <App>
+    <Name>Steam</Name>
+    <Cmd>F:\Programs\steam.exe</Cmd>
+	<Parameters></Parameters>
+	<ProcessName></ProcessName>
+  </App>
+
+  </Apps>
+</Library>
